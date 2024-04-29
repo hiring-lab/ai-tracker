@@ -1,6 +1,6 @@
 # Indeed AI Trackers
 
-The Indeed AI Tracker developed by Hiring Lab monitors the share of job postings containing AI-related terms over time. For more information see here.
+The Indeed AI Tracker developed by Hiring Lab monitors the share of job postings containing AI-related terms over time. The data are seven-day trailing averages. For more information see here.
 
 We currently cover the following countries: Australia, Canada, Germany, Spain, France, UK, Ireland, Singapore, US. 
 
