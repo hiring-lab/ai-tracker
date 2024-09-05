@@ -6,8 +6,8 @@ This repository contains the data behind the *Indeed Hiring Lab's* AI Tracker da
 
 The data in this repository are the share of AI (and generative AI) job postings, as a percentage of overall job postings, using a seven-day trailing average. We calculate the aggregate share of job postings in a specific location that included keywords associated specifically with:
 
--   AI (e.g. "Machine Learning", "Data Science" and "Artificial Intelligence")
--   Generative AI (e.g. "Generative AI", "Large Language Models" and "Chat GPT")
+- AI (e.g. "Machine Learning", "Data Science" and "Artificial Intelligence")
+- Generative AI (e.g. "Generative AI", "Large Language Models" and "Chat GPT")
 
 We currently cover the following countries: Australia, Canada, Germany, Spain, France, UK, Ireland, Singapore, US.
 
@@ -17,8 +17,8 @@ We currently cover the following countries: Australia, Canada, Germany, Spain, F
 
 Filename:
 
--   `ai-postings.csv`
--   `genai-postings.csv`
+- `ai-postings.csv`
+- `genai-postings.csv`
 
 | variable      | definition                                                                          |
 |---------------|---------------------------------------------------------|
