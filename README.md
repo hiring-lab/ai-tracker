@@ -9,8 +9,6 @@ The data in this repository are the share of AI (and generative AI) job postings
 - AI (e.g. "Machine Learning", "Data Science" and "Artificial Intelligence")
 - Generative AI (e.g. "Generative AI", "Large Language Models" and "Chat GPT")
 
-We currently cover the following countries: Australia, Canada, Germany, Spain, France, UK, Ireland, Singapore, US.
-
 ## Data schema
 
 ### Country-level
