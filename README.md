@@ -19,10 +19,24 @@ Filename:
 - `genai-postings.csv`
 
 | variable      | definition                                                                          |
+<<<<<<< HEAD
 |---------------|-------------------------------------------------------------------------------------|
 | modified_date | Date of observation                                                                 |
+||||||| parent of c6ea9b5 (renaming column names + readme)
+|---------------|---------------------------------------------------------|
+| modified_date | Date of observation                                                                 |
+=======
+|---------------|---------------------------------------------------------|
+| date | Date of observation                                                                 |
+>>>>>>> c6ea9b5 (renaming column names + readme)
 | jobcountry    | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
+<<<<<<< HEAD
 | ma_share_perc | % share of AI/GenAI job postings                                                   |
+||||||| parent of c6ea9b5 (renaming column names + readme)
+| ma_share_perc | \% share of AI/GenAI job postings                                                   |
+=======
+| share | \% share of AI/GenAI job postings                                                   |
+>>>>>>> c6ea9b5 (renaming column names + readme)
 
 ## License
 
