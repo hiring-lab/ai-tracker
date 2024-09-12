@@ -18,11 +18,11 @@ Filename:
 - `ai-postings.csv`
 - `genai-postings.csv`
 
-| variable      | definition                                                                          |
-|---------------|-------------------------------------------------------------------------------------|
-| modified_date | Date of observation                                                                 |
-| jobcountry    | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
-| ma_share_perc | % share of AI/GenAI job postings                                                   |
+| variable   | definition                                                                          |
+|------------|-------------------------------------------------------------------------------------|
+| date       | Date of observation                                                                 |
+| jobcountry | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
+| xxx_share  | % share of AI/GenAI job postings                                                    |
 
 ## License
 
