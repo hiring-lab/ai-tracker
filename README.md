@@ -15,8 +15,8 @@ The data in this repository are the share of AI (and generative AI) job postings
 
 Filename:
 
-- `AI_postings.csv`
-- `GenAI_postings.csv`
+- `AI_posting.csv`
+- `GenAI_posting.csv`
 
 | variable   | definition                                                                          |
 |------------|-------------------------------------------------------------------------------------|
